@@ -54,9 +54,9 @@ const About = ({ isDarkMode }) => {
           className="flex-1"
         >
           <p className="mb-10 max-w-2xl font-Ovo">
-            I'm a passionate Frontend Developer with over 1 years of hands-on
+            I'm a passionate Frontend Developer with over 1 year of hands-on
             experience building responsive, user-friendly, and visually
-            appealing web applications. I specialize in React.js, along with
+            appealing web applications. I've specialized in React.js, along with
             modern JavaScript frameworks and libraries like Next.js, Redux,
             Tailwind CSS, and Bootstrap. I have a strong eye for design and a
             solid understanding of UI/UX principles, ensuring smooth user

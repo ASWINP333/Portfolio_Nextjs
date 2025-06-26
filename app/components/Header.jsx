@@ -31,7 +31,7 @@ const Header = () => {
             whileInView={{opacity:1}}
             transition={{duration:0.6 , delay:0.7}} 
             className='max-w-2xl mx-auto font-Ovo'>
-                I am a Full Stack Developer from Malappuram, Inda with 1 years of hands-on
+                I am a Full Stack Developer from Malappuram, India with 1 year of hands-on
                 experience building responsive, user-friendly, and visually appealing web 
                 applications. 
             </motion.p>  
